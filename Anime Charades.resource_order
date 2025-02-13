@@ -1,0 +1,19 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"fAnimeName","order":5,"path":"fonts/fAnimeName/fAnimeName.yy",},
+    {"name":"fLarger","order":1,"path":"fonts/fLarger/fLarger.yy",},
+    {"name":"fLeaderboard","order":4,"path":"fonts/fLeaderboard/fLeaderboard.yy",},
+    {"name":"fNormal","order":2,"path":"fonts/fNormal/fNormal.yy",},
+    {"name":"fSmall","order":3,"path":"fonts/fSmall/fSmall.yy",},
+    {"name":"oGameMaster","order":1,"path":"objects/oGameMaster/oGameMaster.yy",},
+    {"name":"rLeaderboard","order":1,"path":"rooms/rLeaderboard/rLeaderboard.yy",},
+    {"name":"rStart","order":2,"path":"rooms/rStart/rStart.yy",},
+    {"name":"rTest","order":3,"path":"rooms/rTest/rTest.yy",},
+    {"name":"actions","order":3,"path":"scripts/actions/actions.yy",},
+    {"name":"importFile","order":1,"path":"scripts/importFile/importFile.yy",},
+    {"name":"modulo","order":2,"path":"scripts/modulo/modulo.yy",},
+    {"name":"sCountdown","order":2,"path":"sounds/sCountdown/sCountdown.yy",},
+    {"name":"sSkip","order":1,"path":"sounds/sSkip/sSkip.yy",},
+  ],
+}
